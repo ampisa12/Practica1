@@ -4,3 +4,10 @@ header{
     color: #000091;
     text-align: center;
 }
+
+nav{
+    background-color: #7f7f7f7f;
+    border-radius: 5px;
+    min-height: 45px;
+    margin-bottom: 10px;
+}
