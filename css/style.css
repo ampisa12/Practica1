@@ -58,3 +58,8 @@ footer{
     margin-left: 5px;
     margin-right: 10px;
 }
+
+.right_content{
+    width: 30%;
+    float: right;
+}
