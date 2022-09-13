@@ -28,3 +28,20 @@ nav ul li a{
     padding: 10px;
 }
 
+section{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #7a7a7a7a;
+}
+
+article{
+    background-color: #72527260;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+aside{
+    background-color: #79abad;
+    border-radius: 10px;
+}
